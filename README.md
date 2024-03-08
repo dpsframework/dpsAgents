@@ -1,3 +1,9 @@
-# dpsAgents-2.1
+# dpsAgents-2.1.jar
 
-JADE Agents Library to build and to deploy Agents with Production Systems management capabilities. This is the full-revised and updated dpsAgents Library version (Java JDK11 or higher only).
+
+
+> JADE agent library used by **dpsFramework** to build agent-based applications.
+> These agents can be connected to Expert Systems.
+>  Their class names are: PSstage, PSclips, PSjess, PSprolog, PSblackboard and PSworker.
+
+Documents and User guide at: https://dpsframework.org/index_en.html
